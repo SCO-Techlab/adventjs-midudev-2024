@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Santiago Comeras Oteo (SCO-Techlab) <scotechlab@gmail.com>",
+  "author": "Santiago Comeras Oteo (SCO-Techlab) <sco.techlab@gmail.com>",
   "license": "ISC"
 }
