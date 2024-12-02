@@ -1,0 +1,11 @@
+{
+  "name": "02-adventjs-midudev-2024",
+  "version": "1.0.0",
+  "description": "Ejercicio número 2 de la adventjs 2024 de Midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Comeras Oteo (SCO-Techlab) <scotechlab@gmail.com>",
+  "license": "ISC"
+}
